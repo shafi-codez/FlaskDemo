@@ -1,0 +1,3 @@
+#pip install -r ./requirements.txt
+Flask==0.10.1
+flask-restplus==0.5.1
